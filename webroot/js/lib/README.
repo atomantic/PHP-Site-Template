@@ -1,0 +1,1 @@
+This is for all 3rd party javascript libraries that are not linked to on hosted API servers (anything you have to host yourself but want to keep separate from your own js, which you will validate with jsLint)
